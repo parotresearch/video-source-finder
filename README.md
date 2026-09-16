@@ -1,2 +1,2 @@
-# parot-clips
-Video matching demo
+# Parot Clips
+Coming soon.
